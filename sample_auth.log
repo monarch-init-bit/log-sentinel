@@ -1,0 +1,25 @@
+2026-10-09 20:00:12 192.168.1.101 admin SUCCESS - User logged in successfully
+2026-10-09 20:01:05 192.168.1.105 root FAILED - Invalid password attempt
+2026-10-09 20:01:07 192.168.1.105 root FAILED - Invalid password attempt
+2026-10-09 20:01:09 192.168.1.105 root FAILED - Invalid password attempt
+2026-10-09 20:01:12 192.168.1.105 root FAILED - Invalid password attempt
+2026-10-09 20:01:15 192.168.1.105 root FAILED - Invalid password attempt
+2026-10-09 20:02:30 10.0.0.42 user1 SUCCESS - User logged in successfully
+2026-10-09 20:01:05 192.168.1.106 root FAILED - Invalid password attempt
+2026-10-09 20:01:07 192.168.1.106 root FAILED - Invalid password attempt
+2026-10-09 20:01:09 192.168.1.106 root FAILED - Invalid password attempt
+2026-10-09 20:01:12 192.168.1.106 root FAILED - Invalid password attempt
+2026-10-09 20:01:15 192.168.1.106 root FAILED - Invalid password attempt
+2026-10-09 20:01:05 192.168.1.107 root FAILED - Invalid password attempt
+2026-10-09 20:01:07 192.168.1.107 root FAILED - Invalid password attempt
+2026-10-09 20:01:09 192.168.1.107 root FAILED - Invalid password attempt
+2026-10-09 20:01:12 192.168.1.107 root FAILED - Invalid password attempt
+2026-10-09 20:01:15 192.168.1.107 root FAILED - Invalid password attempt
+[2026-10-15 21:40:12] [WARN] Auth module: Login FAILED for root (Source: 192.168.1.45)
+[2026-10-15 21:40:15] [INFO] User admin logged in successfully (Source: 10.0.0.12)
+[2026-10-15 21:40:18] [WARN] Auth module: Login FAILED for root (Source: 192.168.1.45)
+[2026-10-15 21:40:22] [WARN] Auth module: Login FAILED for root (Source: 192.168.1.45)
+[2026-10-15 21:40:25] [WARN] Auth module: Login FAILED for root (Source: 192.168.1.45)
+[2026-10-15 21:40:28] [INFO] Connection established from 192.168.1.100
+[2026-10-15 21:40:30] [WARN] Auth module: Login FAILED for admin (Source: 192.168.1.45)
+[2026-10-15 21:40:25] [WARN] Auth module: Login FAILED for root (Source: 192.168.1.45)
